@@ -1,0 +1,1 @@
+The minimum distance is: 2.46 Å (between atoms 241 and 126)
