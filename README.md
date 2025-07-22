@@ -211,18 +211,16 @@ The following packages are included in the conda environment (`python39_environm
 
 If you use ResidueX in your research, please cite:
 
+```bibtex
+@article{dai2025topological,
+  title={Topological Deep Learning for Enhancing Peptide-Protein Complex Prediction},
+  author={Dai, Xuhang and Wang, Rui and Zhang, Yingkai},
+  journal={in review},
+  year={2025}
+}
 ```
-ResidueX: A Python package for non-canonical amino acid peptide generation
-Authors: Xuhang Dai, Dr. Rui Wang
-```
 
-## Contributing
 
-We welcome contributions! Please feel free to submit issues, feature requests, or pull requests.
-
-## License
-
-This project is licensed under the MIT License.
 
 ## Contact
 
