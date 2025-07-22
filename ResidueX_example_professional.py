@@ -43,6 +43,10 @@ def main():
     print("Example 1: Using ResidueXProcessor Class")
     print("=" * 40)
     
+    # Create output directory
+    import os
+    os.makedirs("./output_professional", exist_ok=True)
+    
     # Initialize processor
     processor = ResidueXProcessor(working_directory="./output_professional")
     
@@ -84,6 +88,9 @@ def main():
     print("=" * 40)
     
     try:
+        # Create output directory
+        os.makedirs("./output_quick", exist_ok=True)
+        
         # Quick ncAA substitution
         print("🔄 Performing quick ncAA substitution...")
         quick_results = quick_ncaa_substitution(
@@ -126,6 +133,9 @@ def main():
     print("=" * 40)
     
     try:
+        # Create output directory
+        os.makedirs("./output_stepwise", exist_ok=True)
+        
         step_processor = ResidueXProcessor(working_directory="./output_stepwise")
         
         # Step 1: Split peptide
