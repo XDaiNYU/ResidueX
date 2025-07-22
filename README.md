@@ -222,15 +222,7 @@ We welcome contributions! Please feel free to submit issues, feature requests, o
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-The MIT License is a permissive license that allows for:
-- Commercial use
-- Modification
-- Distribution
-- Private use
-
-While providing liability protection for the authors.
+This project is licensed under the MIT License.
 
 ## Contact
 
