@@ -213,7 +213,7 @@ If you use ResidueX in your research, please cite:
 
 ```
 ResidueX: A Python package for non-canonical amino acid peptide generation
-Authors: [Your Name], Dr. Rui Wang
+Authors: Xuhang Dai, Dr. Rui Wang
 ```
 
 ## Contributing
@@ -222,7 +222,15 @@ We welcome contributions! Please feel free to submit issues, feature requests, o
 
 ## License
 
-[Add your license information here]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+The MIT License is a permissive license that allows for:
+- Commercial use
+- Modification
+- Distribution
+- Private use
+
+While providing liability protection for the authors.
 
 ## Contact
 
