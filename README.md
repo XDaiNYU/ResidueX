@@ -227,5 +227,7 @@ This project is licensed under the MIT License.
 ## Contact
 
 For questions or support, please contact:
-- Dr. Rui Wang: rw3594@nyu.edu
-- GitHub: https://github.com/wangru25
+- **Xuhang Dai**: xd638@nyu.edu
+  - GitHub: [@XDaiNYU](https://github.com/XDaiNYU/)
+- **Dr. Rui Wang**: rw3594@nyu.edu
+  - GitHub: [@wangru25](https://github.com/wangru25)
