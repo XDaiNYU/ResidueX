@@ -131,7 +131,7 @@ integrate_NCAA_into_peptide(
 
 For a comprehensive tutorial on how to use ResidueX for ncAA peptide generation, please refer to:
 
-**📖 [Tutorial Notebook](./tutorial_ncAA_peptide_generation.ipynb)**
+**[Tutorial Notebook](./tutorial_ncAA_peptide_generation.ipynb)**
 
 This Jupyter notebook provides:
 - Step-by-step examples
